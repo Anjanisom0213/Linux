@@ -1,5 +1,5 @@
 #  Linux Guide
-Following topics are covered as part of the course and documentation.
+Following topics are covered as part of  my linux  course and documentation.
 
 - Fundamentals of Linux
 - Linux vs Windows
